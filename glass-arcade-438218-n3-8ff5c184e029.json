@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glass-arcade-438218-n3",
+  "private_key_id": "8ff5c184e0292aee1ca805404857c45a313c0bff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCghYN/C1uMjnF5\nYeShCKKPhjZXq8XquIRjo+S84eeX0pbHpRg792mo1bBNNYReqHMca4ZofYMJDkr5\nDEiXCFlvBF9flPaBXQaBOfd4v7V8bV82K+sdfB2x7Z7XDKGdGNEKk+Ai1tn8SbrI\nTteELdh+wig2lyYvPBbHJ49qEx2cPLVkxv/QkIufpxI20bcLLZSuzvEAVQKzaUXX\nJmpQjerriN49YXKjt83NUK5R7e7YZu3eWjaxr/i/eXWogVWh1ckYisV/qjwr4CAj\nIHjgeM3gA92N1687unJOSgAyiMjdKoQEDZ3V5/Th5pwa4y2jwJC6XLPg8OUUHE7N\nrMfoUCLzAgMBAAECggEAEdJA4x3zsAswdfV0WJyIz75q0hj0BDcwG4/amU3LVIPA\n0bF2m1HAnUn8JNZIN+ojvYgCiB9HKP45PKUsefgnVbf6jrYPGBWn3zj8TJ+cGpBZ\n/b2qgL+C3HoxJFb2qmZS7wWz4KpR0TyuTAbUzov4eTo9FLJ7PstBDCNMPM6afvnh\nUBmDvMw6Qdy1BQmtTwIUUmkhDKpwScSjFtgJvcCQ9QCElburM9NksWtXC/iMIjWP\ncIKcj5iEgxwkCB0VQkUifesdOZVasGcMr3bYMqEiOMd99LXl/ZiZOqvOqmWlVp7F\n07z4lmkb/rbSr9POzPgTx32W++PzdTALt3gcHIkYoQKBgQDb+EaRAQo4cmkvygw7\nNuSz/B2FBjA7L9jwovTbWBVAK4kXmoRWxT1cGY4vt2DwDJP92S/qh4WGjRT0c2k+\n+rdyUn1670Ll5e+elIxZKnSONDC8P48GPOoaISEjG5QS1XgLA/N0woJukQg8NejF\nzztixjQj/is+hffjp8v9lWoPlQKBgQC60HdKa1JJHGPIL7zQ82i1MXIb+b1N6QCc\nS04bgOec5xJwJQlEa0Ot6KzyCDLrjxtb5HEw7MREeHTcQUyI9Chx+BkApxy8qu1f\nIPYWpukyg++aeRKpt4KO8tuxYj0zIrb14t8KIq1bQbXvEjUkG8XAVcgSA+H2LBD3\nDqmi5RTmZwKBgCup59AGxdGYnFqZH75tUg6MIAv0w4QsJkL2Bea4YFeBjM/7owNa\nWai7hebg3sQnqwS7pPBIAHBJ9vvjIOQYfmuaBkBt1/isoNj4obddXw+POpFTiH9z\nfgC7zMkcQ1NNvmtpWF038w4hieHxzYfeb+pWb6kpXcoma6Nr/mkSzJ/VAoGATCbM\nadajvU/IUQM8qcR/S1UzmbnM9CRl7lA4L7f1Mh1zg6llRLGg7hRp42N6NlGoqmXN\nyk7Jlsuvf1VS+ITms8aZko2Mhk/64QtTpVo2tzPXCRYPiIVYwCK5cW6FWgHtqP/p\nQX1vQ0LfAexfIy/7BXMyUj2o76t44uzkM5XEVkMCgYEAr2auYtdYM5hbgDRMSGPM\nBYjCvkSd0GPr2lT5Tq/eyU1tZ3KkXh9FoiK44+u2X1DnUHbvUO99XSb3HnHNKW0J\nBIFrMhmVh8Oz3IJsvjZO2kaTMlmQZcaTIBV/Zi47PKH+3dhSI2qMURdoeoOfIIhz\nsQ41/hDjEhI0lilrAoSvIuQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-sheets-service-account@glass-arcade-438218-n3.iam.gserviceaccount.com",
+  "client_id": "112073750878121724945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-sheets-service-account%40glass-arcade-438218-n3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
